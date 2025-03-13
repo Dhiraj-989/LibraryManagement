@@ -20,7 +20,7 @@ public class TestDBConnection {
             System.out.println("Error Code: " + e.getErrorCode());
             System.out.println("SQL State: " + e.getSQLState());
             e.printStackTrace();
-        }// printed
-        
+        }// printed df
+
     }
 }
